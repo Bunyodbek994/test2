@@ -49,3 +49,7 @@ git remote show origin
 git clone https://github.com/Bunyodbek994/test2.git
 ```
 
+# GitHub dagi vetkani VS Code terminalidan foydalanib buyruq yordamida o'chirish
+```sh
+git push origin --delete <vetka_nomii>
+```
