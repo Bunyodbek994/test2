@@ -18,3 +18,5 @@ UPPERCASE
 ![Это яблоко](orange.png)
 
 Апельсин очень вкусный. Оранжевый и спелый.
+
+brauzerdan turib online o'zgartirildi!
