@@ -20,3 +20,5 @@ UPPERCASE
 Апельсин очень вкусный. Оранжевый и спелый.
 
 brauzerdan turib online o'zgartirildi!
+
+VS code tasdiqlaydi.
